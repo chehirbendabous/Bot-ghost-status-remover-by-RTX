@@ -6,7 +6,7 @@
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
   GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/QzRYXQdWaF
+  DISCORD SERVER : https://discord.gg/jsshop
   YOUTUBE : https://www.youtube.com/@saski-gamer
  * **********************************************
  *   Code by SASKI GAMER
@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["By Medjok🔧","By Medjok🎃","By Medjok🏆"];
+const statusMessages = ["By SASKI GAMER🔧","BySASKI GAMER🎃","By SASKI GAMER🏆"];
 
 
 let currentIndex = 0;
@@ -60,7 +60,7 @@ async function login() {
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
 GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/QzRYXQdWaF
+  DISCORD SERVER : https://discord.gg/jsshop
   YOUTUBE : https://www.youtube.com/@saski-gamer
  * **********************************************
  *   Code by SASKI GAMER
@@ -111,7 +111,7 @@ login();
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
 GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/QzRYXQdWaF
+  DISCORD SERVER : https://discord.gg/jsshop
   YOUTUBE : https://www.youtube.com/@saski-gamer
  * **********************************************
  *   Code by RTX GAMING
