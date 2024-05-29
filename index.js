@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["By SASKI GAMER🔧","BySASKI GAMER🎃","By SASKI GAMER🏆"];
+const statusMessages = ["By SASKI GAMER🔧","By SASKI GAMER🎃","By SASKI GAMER🏆"];
 
 
 let currentIndex = 0;
